@@ -14,8 +14,8 @@ http://inside-frontend.com/
 
 ### 各AMA(Ask Me Anything)ブースの概要は下記から
 
-- TBD
+- [Web Payments / Payment Request API について何でも訊いて下さい by えーじ](https://github.com/insidefrontend/issue-2/tree/master/topics/ama-booths/agektmr-payment)
 
 ## connpass 募集ページ
 
-- TBD
+- https://inside-frontend.connpass.com/event/74625/
