@@ -19,6 +19,8 @@ http://inside-frontend.com/
 - [日経電子版の高速化について何でも聞いてください by sisidovski and cssradar](https://github.com/insidefrontend/issue-2/tree/master/topics/ama-booths/sisidovski-nikkei)
 - [Fastly のエッジクラウドについて何でも聞いてください by Fastly](https://github.com/insidefrontend/issue-2/tree/master/topics/ama-booths/toshiaizawa-fastly)
 - [Web パフォーマンスについて何でも訊いて下さい by Ayumu Sato and Shogo Sensui](https://github.com/insidefrontend/issue-2/tree/master/topics/ama-booths/webperf)
+- [freeeのアクセシビリティ、いまとこれから by 伊原 力也](https://github.com/insidefrontend/issue-2/tree/master/topics/seminars/magi1125-a11y)
+- [現場の ES201x とアーキテクチャの変遷と未来 by mizchi](https://github.com/insidefrontend/issue-2/tree/master/topics/seminars/mizchi-es201x)
 
 ## connpass 募集ページ
 
