@@ -4,6 +4,8 @@
 
 特定のテーマについてブースのオーナーと自由に話をできるスペースを用意します。セッションとセッションの間のインターバルを長めにとり、その間に AMA ブースでの質疑応答や議論を通して、参加者同士の交流を図ります。
 
+![](https://user-images.githubusercontent.com/445333/35767426-70496ffa-092f-11e8-9691-0776a35e3934.png)
+
 なお、すべての質問に対して回答できるわけではありませんので、あらかじめご了承くださいませ。
 
 また、回答は会場での質問も合わせてIssueに可能な限り掲載する予定です。
@@ -24,6 +26,6 @@ http://inside-frontend.com/
 - [freeeのアクセシビリティ、いまとこれから by 伊原 力也](https://github.com/insidefrontend/issue-2/tree/master/topics/seminars/magi1125-a11y)
 - [現場の ES201x とアーキテクチャの変遷と未来 by mizchi](https://github.com/insidefrontend/issue-2/tree/master/topics/seminars/mizchi-es201x)
 
-## connpass 募集ページ
+## connpass
 
 - https://inside-frontend.connpass.com/event/74625/
