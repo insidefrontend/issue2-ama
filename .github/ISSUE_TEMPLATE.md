@@ -12,6 +12,6 @@
 - [ ] freeeのアクセシビリティ、いまとこれから by 伊原 力也
 - [ ] 現場の ES201x とアーキテクチャの変遷と未来 by mizchi
 - [ ] デザインとエンジニアリングのワークフローについて語りましょう by Hidemi Atarashi, Kensuke Takada, Masanari Hamada
-- [ ] ココンポーネント座談会 by pirosikick, 伊藤康太, 加藤佑典
+- [ ] コンポーネント座談会 by pirosikick, 伊藤康太, 加藤佑典
 
 # 質問
