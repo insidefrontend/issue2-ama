@@ -11,7 +11,7 @@
 - [ ] Web パフォーマンスについて何でも訊いて下さい by Ayumu Sato and Shogo Sensui
 - [ ] freeeのアクセシビリティ、いまとこれから by 伊原 力也
 - [ ] 現場の ES201x とアーキテクチャの変遷と未来 by mizchi
-- [ ] 動的デザインガイドのつくり方 by narirou
-- [ ] コンポーネントTDDの実践から見えたもの by pirosikick
+- [ ] デザインとエンジニアリングのワークフローについて語りましょう by Hidemi Atarashi, Kensuke Takada, Masanari Hamada
+- [ ] ココンポーネント座談会 by pirosikick, 伊藤康太, 加藤佑典
 
 # 質問
